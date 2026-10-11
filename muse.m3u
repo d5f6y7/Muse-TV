@@ -135,325 +135,311 @@ https://action-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b
 https://comedy-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/34b2bcf8-3a15-4ef7-bedb-04cae730c688/4.m3u8
 #EXTINF:-1 group-title="国际",68. Drama Movies
 https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/c4bcddc4-dfdf-4499-ae5d-7a68c79fcde9/4.m3u8
-#EXTINF:-1 group-title="国际",69. Romance Movies
-https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/812b4d9e-f255-46f1-9071-decd622f8e1b/4.m3u8
-#EXTINF:-1 group-title="国际",70. Sci-Fi
-https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/2633b8e1-37ed-4477-9e50-d6b4f489d363/4.m3u8
-#EXTINF:-1 group-title="国际",71. Thrillers
-https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/12886224-4a4c-4671-9894-f33d4197ac53/4.m3u8
-#EXTINF:-1 group-title="国际",72. Top Movies
+#EXTINF:-1 group-title="国际",69. Top Movies
 https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/8b530802-f923-43a1-8496-e871276a745f/4.m3u8
-#EXTINF:-1 group-title="国际",73. Reality
+#EXTINF:-1 group-title="国际",70. Reality
 https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/228208ef-d17f-4825-a278-eccf505de378/4.m3u8
-#EXTINF:-1 group-title="国际",74. Family
+#EXTINF:-1 group-title="国际",71. Family
 https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
-#EXTINF:-1 group-title="国际",75. beIN SPORTS XTRA
+#EXTINF:-1 group-title="国际",72. beIN SPORTS XTRA
 https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8
-#EXTINF:-1 group-title="中国大陆",76. 河北4K
+#EXTINF:-1 group-title="中国大陆",73. 河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="中国大陆",77. 钱江都市
+#EXTINF:-1 group-title="中国大陆",74. 钱江都市
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-#EXTINF:-1 group-title="中国大陆",78. 经济生活2
+#EXTINF:-1 group-title="中国大陆",75. 经济生活2
 http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-#EXTINF:-1 group-title="中国大陆",79. 教科影院
+#EXTINF:-1 group-title="中国大陆",76. 教科影院
 http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-#EXTINF:-1 group-title="中国大陆",80. 民生休闲
+#EXTINF:-1 group-title="中国大陆",77. 民生休闲
 http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-#EXTINF:-1 group-title="中国大陆",81. 浙江新闻
+#EXTINF:-1 group-title="中国大陆",78. 浙江新闻
 http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-#EXTINF:-1 group-title="中国大陆",82. 少儿频道2
+#EXTINF:-1 group-title="中国大陆",79. 少儿频道2
 http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
-#EXTINF:-1 group-title="中国大陆",83. 浙江国际
+#EXTINF:-1 group-title="中国大陆",80. 浙江国际
 http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
-#EXTINF:-1 group-title="中国大陆",84. 之江纪录
+#EXTINF:-1 group-title="中国大陆",81. 之江纪录
 http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
-#EXTINF:-1 group-title="中国大陆",85. 广州综合
+#EXTINF:-1 group-title="中国大陆",82. 广州综合
 https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
-#EXTINF:-1 group-title="中国大陆",86. 南国都市
+#EXTINF:-1 group-title="中国大陆",83. 南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1 group-title="中国大陆",87. 苏州娱乐
+#EXTINF:-1 group-title="中国大陆",84. 苏州娱乐
 https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-#EXTINF:-1 group-title="中国大陆",88. 南宁文旅
+#EXTINF:-1 group-title="中国大陆",85. 南宁文旅
 https://hls.nntv.cn/nnlive/WLSH_24.m3u8
-#EXTINF:-1 group-title="中国大陆",89. 南宁娱乐
+#EXTINF:-1 group-title="中国大陆",86. 南宁娱乐
 http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-#EXTINF:-1 group-title="中国大陆",90. 新闻综合
+#EXTINF:-1 group-title="中国大陆",87. 新闻综合
 http://play1-qk.nmtv.cn/live/2316general.m3u8
-#EXTINF:-1 group-title="中国大陆",91. 经济生活
+#EXTINF:-1 group-title="中国大陆",88. 经济生活
 http://play1-qk.nmtv.cn/live/2326general.m3u8
-#EXTINF:-1 group-title="中国大陆",92. 少儿频道
+#EXTINF:-1 group-title="中国大陆",89. 少儿频道
 http://play1-qk.nmtv.cn/live/2327general.m3u8
-#EXTINF:-1 group-title="中国大陆",93. 文体娱乐
+#EXTINF:-1 group-title="中国大陆",90. 文体娱乐
 http://play1-qk.nmtv.cn/live/2319general.m3u8
-#EXTINF:-1 group-title="中国大陆",94. 农牧频道
+#EXTINF:-1 group-title="中国大陆",91. 农牧频道
 http://play1-qk.nmtv.cn/live/2329general.m3u8
-#EXTINF:-1 group-title="中国大陆",95. 绍兴公共
+#EXTINF:-1 group-title="中国大陆",92. 绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 group-title="中国大陆",96. 文化影视
+#EXTINF:-1 group-title="中国大陆",93. 文化影视
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 group-title="中国大陆",97. 文成综合
+#EXTINF:-1 group-title="中国大陆",94. 文成综合
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-#EXTINF:-1 group-title="中国大陆",98. 萧山综合
+#EXTINF:-1 group-title="中国大陆",95. 萧山综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 group-title="中国大陆",99. 龙泉综合
+#EXTINF:-1 group-title="中国大陆",96. 龙泉综合
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1 group-title="中国大陆",100. 南宁新闻
+#EXTINF:-1 group-title="中国大陆",97. 南宁新闻
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-#EXTINF:-1 group-title="中国大陆",101. 上虞综合
+#EXTINF:-1 group-title="中国大陆",98. 上虞综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 group-title="日本",102. NHK G
+#EXTINF:-1 group-title="日本",99. NHK G
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
-#EXTINF:-1 group-title="日本",103. NHK E
+#EXTINF:-1 group-title="日本",100. NHK E
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
-#EXTINF:-1 group-title="日本",104. NTV
+#EXTINF:-1 group-title="日本",101. NTV
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8
-#EXTINF:-1 group-title="日本",105. TV Asahi
+#EXTINF:-1 group-title="日本",102. TV Asahi
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8
-#EXTINF:-1 group-title="日本",106. TBS
+#EXTINF:-1 group-title="日本",103. TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8
-#EXTINF:-1 group-title="日本",107. TV Tokyo
+#EXTINF:-1 group-title="日本",104. TV Tokyo
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8
-#EXTINF:-1 group-title="日本",108. Fuji TV
+#EXTINF:-1 group-title="日本",105. Fuji TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8
-#EXTINF:-1 group-title="日本",109. Tokyo MX1
+#EXTINF:-1 group-title="日本",106. Tokyo MX1
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
-#EXTINF:-1 group-title="日本",110. NHK BS
+#EXTINF:-1 group-title="日本",107. NHK BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
-#EXTINF:-1 group-title="日本",111. BS Asahi
+#EXTINF:-1 group-title="日本",108. BS Asahi
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
-#EXTINF:-1 group-title="日本",112. BS TBS
+#EXTINF:-1 group-title="日本",109. BS TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8
-#EXTINF:-1 group-title="日本",113. BS TV Tokyo
+#EXTINF:-1 group-title="日本",110. BS TV Tokyo
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8
-#EXTINF:-1 group-title="日本",114. BS Fuji
+#EXTINF:-1 group-title="日本",111. BS Fuji
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8
-#EXTINF:-1 group-title="日本",115. NHK BS4K
+#EXTINF:-1 group-title="日本",112. NHK BS4K
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
-#EXTINF:-1 group-title="日本",116. WOWOW Prime
+#EXTINF:-1 group-title="日本",113. WOWOW Prime
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
-#EXTINF:-1 group-title="日本",117. WOWOW Cinema
+#EXTINF:-1 group-title="日本",114. WOWOW Cinema
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
-#EXTINF:-1 group-title="日本",118. WOWOW Live
+#EXTINF:-1 group-title="日本",115. WOWOW Live
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
-#EXTINF:-1 group-title="日本",119. BS 10 Premium
+#EXTINF:-1 group-title="日本",116. BS 10 Premium
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
-#EXTINF:-1 group-title="日本",120. JSport 1
+#EXTINF:-1 group-title="日本",117. JSport 1
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs18#.m3u8
-#EXTINF:-1 group-title="日本",121. JSport 2
+#EXTINF:-1 group-title="日本",118. JSport 2
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs19#.m3u8
-#EXTINF:-1 group-title="日本",122. JSport 3
+#EXTINF:-1 group-title="日本",119. JSport 3
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs21#.m3u8
-#EXTINF:-1 group-title="日本",123. JSport 4
+#EXTINF:-1 group-title="日本",120. JSport 4
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs22#.m3u8
-#EXTINF:-1 group-title="日本",124. Green Channel
+#EXTINF:-1 group-title="日本",121. Green Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
-#EXTINF:-1 group-title="日本",125. Nihon Eiga Senmon
+#EXTINF:-1 group-title="日本",122. Nihon Eiga Senmon
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs23#.m3u8
-#EXTINF:-1 group-title="日本",126. Fishing Vision
+#EXTINF:-1 group-title="日本",123. Fishing Vision
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8
-#EXTINF:-1 group-title="日本",127. Disney Channel
+#EXTINF:-1 group-title="日本",124. Disney Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs24#.m3u8
-#EXTINF:-1 group-title="日本",128. Jcom BS
+#EXTINF:-1 group-title="日本",125. Jcom BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8
-#EXTINF:-1 group-title="日本",129. Sky A
+#EXTINF:-1 group-title="日本",126. Sky A
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs01#.m3u8
-#EXTINF:-1 group-title="日本",130. GAORA
+#EXTINF:-1 group-title="日本",127. GAORA
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs17#.m3u8
-#EXTINF:-1 group-title="日本",131. Space Shower TV
+#EXTINF:-1 group-title="日本",128. Space Shower TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs26#.m3u8
-#EXTINF:-1 group-title="日本",132. MTV
+#EXTINF:-1 group-title="日本",129. MTV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs18#.m3u8
-#EXTINF:-1 group-title="日本",133. Kayo Pops
+#EXTINF:-1 group-title="日本",130. Kayo Pops
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs13#.m3u8
-#EXTINF:-1 group-title="日本",134. Kids Station
+#EXTINF:-1 group-title="日本",131. Kids Station
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs07#.m3u8
-#EXTINF:-1 group-title="日本",135. Family Gekijo
+#EXTINF:-1 group-title="日本",132. Family Gekijo
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8
-#EXTINF:-1 group-title="日本",136. Mondo TV
+#EXTINF:-1 group-title="日本",133. Mondo TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs21#.m3u8
-#EXTINF:-1 group-title="日本",137. Fuji TV Next
+#EXTINF:-1 group-title="日本",134. Fuji TV Next
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8
-#EXTINF:-1 group-title="日本",138. Toei Channel
+#EXTINF:-1 group-title="日本",135. Toei Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs27#.m3u8
-#EXTINF:-1 group-title="日本",139. Home Drama Channel
+#EXTINF:-1 group-title="日本",136. Home Drama Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8
-#EXTINF:-1 group-title="日本",140. Channel Ginga
+#EXTINF:-1 group-title="日本",137. Channel Ginga
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8
-#EXTINF:-1 group-title="日本",141. Tabi Channel
+#EXTINF:-1 group-title="日本",138. Tabi Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs12#.m3u8
-#EXTINF:-1 group-title="日本",142. Shop Channel
+#EXTINF:-1 group-title="日本",139. Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 group-title="日本",143. QVC
+#EXTINF:-1 group-title="日本",140. QVC
 https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
-#EXTINF:-1 group-title="日本",144. GSTV
+#EXTINF:-1 group-title="日本",141. GSTV
 https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
-#EXTINF:-1 group-title="日本",145. Jidaigeki Senmon
+#EXTINF:-1 group-title="日本",142. Jidaigeki Senmon
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8
-#EXTINF:-1 group-title="日本",146. Eisei Gekijo
+#EXTINF:-1 group-title="日本",143. Eisei Gekijo
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs22#.m3u8
-#EXTINF:-1 group-title="日本",147. Movie Plus
+#EXTINF:-1 group-title="日本",144. Movie Plus
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs14#.m3u8
-#EXTINF:-1 group-title="日本",148. Golf Network
+#EXTINF:-1 group-title="日本",145. Golf Network
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs03#.m3u8
-#EXTINF:-1 group-title="日本",149. Music Japan
+#EXTINF:-1 group-title="日本",146. Music Japan
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs06#.m3u8
-#EXTINF:-1 group-title="日本",150. LaLa TV
+#EXTINF:-1 group-title="日本",147. LaLa TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs19#.m3u8
-#EXTINF:-1 group-title="日本",151. Sky Stage
+#EXTINF:-1 group-title="日本",148. Sky Stage
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs28#.m3u8
-#EXTINF:-1 group-title="日本",152. National Geographic
+#EXTINF:-1 group-title="日本",149. National Geographic
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs10#.m3u8
-#EXTINF:-1 group-title="日本",153. Disney Junior
+#EXTINF:-1 group-title="日本",150. Disney Junior
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs23#.m3u8
-#EXTINF:-1 group-title="日本",154. Discovery
+#EXTINF:-1 group-title="日本",151. Discovery
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs08#.m3u8
-#EXTINF:-1 group-title="日本",155. Animal Planet
+#EXTINF:-1 group-title="日本",152. Animal Planet
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs24#.m3u8
-#EXTINF:-1 group-title="日本",156. History Channel
+#EXTINF:-1 group-title="日本",153. History Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs09#.m3u8
-#EXTINF:-1 group-title="日本",157. CNNj
+#EXTINF:-1 group-title="日本",154. CNNj
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs16#.m3u8
-#EXTINF:-1 group-title="日本",158. BBC News
+#EXTINF:-1 group-title="日本",155. BBC News
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs15#.m3u8
-#EXTINF:-1 group-title="日本",159. TBS News
+#EXTINF:-1 group-title="日本",156. TBS News
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8
-#EXTINF:-1 group-title="香港",160. NOW新闻台
+#EXTINF:-1 group-title="香港",157. NOW新闻台
 https://cdn.qd.je/163189/now
-#EXTINF:-1 group-title="香港",161. RTHK31
+#EXTINF:-1 group-title="香港",158. RTHK31
 https://cdn.qd.je/163189/rthk31
-#EXTINF:-1 group-title="香港",162. RTHK32
+#EXTINF:-1 group-title="香港",159. RTHK32
 https://cdn.qd.je/163189/rthk32
-#EXTINF:-1 group-title="澳门",163. 澳视澳门
+#EXTINF:-1 group-title="澳门",160. 澳视澳门
 https://cdn.qd.je/163189/asam
-#EXTINF:-1 group-title="澳门",164. 澳视卫星
+#EXTINF:-1 group-title="澳门",161. 澳视卫星
 https://cdn.qd.je/163189/as
-#EXTINF:-1 group-title="澳门",165. 澳门体育
+#EXTINF:-1 group-title="澳门",162. 澳门体育
 https://cdn.qd.je/163189/amty
-#EXTINF:-1 group-title="澳门",166. 澳门综艺
+#EXTINF:-1 group-title="澳门",163. 澳门综艺
 https://cdn.qd.je/163189/amzy
-#EXTINF:-1 group-title="澳门",167. 澳门莲花
+#EXTINF:-1 group-title="澳门",164. 澳门莲花
 https://cdn.qd.je/163189/amlh
-#EXTINF:-1 group-title="香港",168. 凤凰资讯
+#EXTINF:-1 group-title="香港",165. 凤凰资讯
 https://cdn.qd.je/163189/fhzx
-#EXTINF:-1 group-title="香港",169. 凤凰香港
+#EXTINF:-1 group-title="香港",166. 凤凰香港
 https://cdn.qd.je/163189/fhhk
-#EXTINF:-1 group-title="香港",170. TVB1
+#EXTINF:-1 group-title="香港",167. TVB1
 https://cdn.qd.je/163189/tvb1
-#EXTINF:-1 group-title="香港",171. TVBJ1
+#EXTINF:-1 group-title="香港",168. TVBJ1
 https://cdn.qd.je/163189/j1
-#EXTINF:-1 group-title="香港",172. 翡翠剧集台
+#EXTINF:-1 group-title="香港",169. 翡翠剧集台
 https://cdn.qd.je/163189/tvbd
-#EXTINF:-1 group-title="香港",173. 翡翠台
+#EXTINF:-1 group-title="香港",170. 翡翠台
 https://cdn.qd.je/163189/fct
-#EXTINF:-1 group-title="香港",174. 翡翠台(字幕)
+#EXTINF:-1 group-title="香港",171. 翡翠台(字幕)
 https://cdn.qd.je/163189/fct2
-#EXTINF:-1 group-title="香港",175. 明珠台(字幕)
+#EXTINF:-1 group-title="香港",172. 明珠台(字幕)
 https://cdn.qd.je/163189/mzt
-#EXTINF:-1 group-title="香港",176. 无线新闻台
+#EXTINF:-1 group-title="香港",173. 无线新闻台
 https://cdn.qd.je/163189/wxxw
-#EXTINF:-1 group-title="中国大陆",177. 广东珠江
+#EXTINF:-1 group-title="中国大陆",174. 广东珠江
 https://cdn.qd.je/163189/gdzj
-#EXTINF:-1 group-title="中国大陆",178. 广东体育
+#EXTINF:-1 group-title="中国大陆",175. 广东体育
 https://cdn.qd.je/163189/gdty
-#EXTINF:-1 group-title="马来西亚",179. 八度空间
+#EXTINF:-1 group-title="马来西亚",176. 八度空间
 https://cdn.qd.je/163189/8tv
-#EXTINF:-1 group-title="新加坡",180. CH5
+#EXTINF:-1 group-title="新加坡",177. CH5
 https://cdn.qd.je/163189/ch5
-#EXTINF:-1 group-title="新加坡",181. CH8
+#EXTINF:-1 group-title="新加坡",178. CH8
 https://cdn.qd.je/163189/ch8
-#EXTINF:-1 group-title="新加坡",182. CHU
+#EXTINF:-1 group-title="新加坡",179. CHU
 https://cdn.qd.je/163189/chu
-#EXTINF:-1 group-title="台湾",183. 龙华电影
+#EXTINF:-1 group-title="台湾",180. 龙华电影
 https://cdn.qd.je/163189/lhdy
-#EXTINF:-1 group-title="台湾",184. 龙华经典
+#EXTINF:-1 group-title="台湾",181. 龙华经典
 https://cdn.qd.je/163189/lhjd
-#EXTINF:-1 group-title="台湾",185. 龙华偶像
+#EXTINF:-1 group-title="台湾",182. 龙华偶像
 https://cdn.qd.je/163189/lhox
-#EXTINF:-1 group-title="台湾",186. 龙华洋片
+#EXTINF:-1 group-title="台湾",183. 龙华洋片
 https://cdn.qd.je/163189/lhyp
-#EXTINF:-1 group-title="台湾",187. 龙华卡通
+#EXTINF:-1 group-title="台湾",184. 龙华卡通
 https://cdn.qd.je/163189/lhkt
-#EXTINF:-1 group-title="香港",188. 华丽翡翠台
+#EXTINF:-1 group-title="香港",185. 华丽翡翠台
 https://cdn.qd.je/163189/hlfct
-#EXTINF:-1 group-title="香港",189. TVB亚洲武侠
+#EXTINF:-1 group-title="香港",186. TVB亚洲武侠
 https://cdn.qd.je/163189/yzwx
-#EXTINF:-1 group-title="香港",190. TVB娱乐新闻台
+#EXTINF:-1 group-title="香港",187. TVB娱乐新闻台
 https://cdn.qd.je/163189/ylxw
-#EXTINF:-1 group-title="香港",191. 无线新闻台
-https://cdn.qd.je/163189/wxxwt
-#EXTINF:-1 group-title="香港",192. TVB星河
+#EXTINF:-1 group-title="香港",188. TVB星河
 https://cdn.qd.je/163189/tvbxh
-#EXTINF:-1 group-title="中国大陆",193. 海峡卫视
+#EXTINF:-1 group-title="中国大陆",189. 海峡卫视
 https://cdn.qd.je/163189/hxws
-#EXTINF:-1 group-title="中国大陆",194. 海峡卫视
-https://cdn.qd.je/163189/hxws2
-#EXTINF:-1 group-title="香港",195. 华丽翡翠台
-https://cdn.qd.je/163189/hlt
-#EXTINF:-1 group-title="香港",196. 华丽翡翠台(硬字幕)
+#EXTINF:-1 group-title="香港",190. 华丽翡翠台(硬字幕)
 https://cdn.qd.je/163189/jade
-#EXTINF:-1 group-title="新加坡",197. 华丽翡翠台(新加坡)
+#EXTINF:-1 group-title="新加坡",191. 华丽翡翠台(新加坡)
 https://cdn.qd.je/163189/jade2
-#EXTINF:-1 group-title="马来西亚",198. Astro AOD
+#EXTINF:-1 group-title="马来西亚",192. Astro AOD
 https://cdn.qd.je/163189/aod
-#EXTINF:-1 group-title="马来西亚",199. Astro AEC
+#EXTINF:-1 group-title="马来西亚",193. Astro AEC
 https://cdn.qd.je/163189/aec
-#EXTINF:-1 group-title="马来西亚",200. Astro欢喜台
+#EXTINF:-1 group-title="马来西亚",194. Astro欢喜台
 https://cdn.qd.je/163189/hxt
-#EXTINF:-1 group-title="中国大陆",201. 爱奇艺
+#EXTINF:-1 group-title="中国大陆",195. 爱奇艺
 https://cdn.qd.je/163189/iqiyi
-#EXTINF:-1 group-title="香港",202. 天映频道
+#EXTINF:-1 group-title="香港",196. 天映频道
 https://cdn.qd.je/163189/typd2
-#EXTINF:-1 group-title="香港",203. 天映经典
+#EXTINF:-1 group-title="香港",197. 天映经典
 https://cdn.qd.je/163189/ccm2
-#EXTINF:-1 group-title="香港",204. TVB星河
-https://cdn.qd.je/163189/tvbxh2
-#EXTINF:-1 group-title="香港",205. 千禧经典台
+#EXTINF:-1 group-title="香港",198. 千禧经典台
 https://cdn.qd.je/163189/tvbc
-#EXTINF:-1 group-title="中国大陆",206. CCTV1
+#EXTINF:-1 group-title="中国大陆",199. CCTV1
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
-#EXTINF:-1 group-title="中国大陆",207. CCTV2
+#EXTINF:-1 group-title="中国大陆",200. CCTV2
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
-#EXTINF:-1 group-title="中国大陆",208. CCTV4
+#EXTINF:-1 group-title="中国大陆",201. CCTV4
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
-#EXTINF:-1 group-title="中国大陆",209. CCTV6
+#EXTINF:-1 group-title="中国大陆",202. CCTV6
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
-#EXTINF:-1 group-title="中国大陆",210. CCTV7
+#EXTINF:-1 group-title="中国大陆",203. CCTV7
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
-#EXTINF:-1 group-title="中国大陆",211. CCTV8
+#EXTINF:-1 group-title="中国大陆",204. CCTV8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
-#EXTINF:-1 group-title="中国大陆",212. CCTV9
+#EXTINF:-1 group-title="中国大陆",205. CCTV9
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
-#EXTINF:-1 group-title="中国大陆",213. CCTV10
+#EXTINF:-1 group-title="中国大陆",206. CCTV10
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
-#EXTINF:-1 group-title="中国大陆",214. CCTV11
+#EXTINF:-1 group-title="中国大陆",207. CCTV11
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
-#EXTINF:-1 group-title="中国大陆",215. CCTV12
+#EXTINF:-1 group-title="中国大陆",208. CCTV12
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
-#EXTINF:-1 group-title="中国大陆",216. CCTV13
+#EXTINF:-1 group-title="中国大陆",209. CCTV13
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
-#EXTINF:-1 group-title="中国大陆",217. CCTV14
+#EXTINF:-1 group-title="中国大陆",210. CCTV14
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
-#EXTINF:-1 group-title="中国大陆",218. CCTV16
+#EXTINF:-1 group-title="中国大陆",211. CCTV16
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
-#EXTINF:-1 group-title="中国大陆",219. CCTV162
+#EXTINF:-1 group-title="中国大陆",212. CCTV162
 https://cdn.qd.je/163189/cctv16-2
-#EXTINF:-1 group-title="中国大陆",220. CCTV17
+#EXTINF:-1 group-title="中国大陆",213. CCTV17
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
-#EXTINF:-1 group-title="中国大陆",221. 重温经典
+#EXTINF:-1 group-title="中国大陆",214. 重温经典
 https://cdn.qd.je/163189/cwjd2
-#EXTINF:-1 group-title="中国大陆",222. 广州南国都市
+#EXTINF:-1 group-title="中国大陆",215. 广州南国都市
 https://cdn.qd.je/163189/ngds
-#EXTINF:-1 group-title="台湾",223. 靖天电影台
+#EXTINF:-1 group-title="台湾",216. 靖天电影台
 https://cdn.qd.je/163189/jtdy
-#EXTINF:-1 group-title="台湾",224. TVBS-Asia
+#EXTINF:-1 group-title="台湾",217. TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="台湾",225. TVBS新闻台
+#EXTINF:-1 group-title="台湾",218. TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="台湾",226. 三立戏剧
+#EXTINF:-1 group-title="台湾",219. 三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="台湾",227. 台视新闻
+#EXTINF:-1 group-title="台湾",220. 台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾",228. 纬来精采
+#EXTINF:-1 group-title="台湾",221. 纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="台湾",229. 纬来体育
+#EXTINF:-1 group-title="台湾",222. 纬来体育
 https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
